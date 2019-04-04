@@ -4,6 +4,7 @@
   "version": "2.2.0",
   "homepage": "https://github.com/valeriansaliou/node-fast-ratelimit",
   "license": "MIT",
+  "types": "types/fast-ratelimit",
   "author": {
     "name": "Valerian Saliou",
     "email": "valerian@valeriansaliou.name",
